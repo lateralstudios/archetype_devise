@@ -18,6 +18,6 @@ Gem::Specification.new do |s|
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "rails", "~> 4"
-  s.add_dependency "devise", "3.5.1"
+  s.add_dependency "devise", "~> 3.5"
   s.add_dependency "archetype"
 end
